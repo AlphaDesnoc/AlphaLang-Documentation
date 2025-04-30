@@ -1,3 +1,5 @@
+<img src="./alphalang_banniere_white_without_background.png">
+
 # 📚 Deliverables – Programming Language Final Year Project - AlphaLang
 
 This repository contains **all official documents** related to my final-year project: the design and implementation of a custom educational programming language.
