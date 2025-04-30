@@ -16,7 +16,7 @@ This repository contains **all official documents** related to my final-year pro
 
 Each document is self-contained, but the recommended reading order is:
 
-1. **`dev_report.md`** – Start here to understand the origin and rationale behind the project.
+1. **[`dev_report.md`](./dev_report.md)** – Start here to understand the origin and rationale behind the project.
 
 ---
 
