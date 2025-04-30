@@ -1,8 +1,6 @@
-<p align="center">
 <img src="./alphalang_banniere_white_without_background.png" 
         alt="AlphaLang Logo" 
-        style="display: block; margin: 0 auto" />
-</p>
+        align="center" />
 
 # 📚 Deliverables – Programming Language Final Year Project - AlphaLang
 
