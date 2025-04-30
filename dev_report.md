@@ -52,7 +52,7 @@
 
 ## 2. 🎯 MVP Summary
 
-**Language Name**: *(to be added)*  
+**Language Name**: ***AlphaLang***
 **Objective**: Create a simple and accessible language to help users understand programming fundamentals without the overhead of complex syntax.
 
 ### Key Features:
