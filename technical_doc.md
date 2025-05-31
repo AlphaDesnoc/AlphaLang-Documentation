@@ -142,11 +142,10 @@ Figma/Balsamiq | Outils rapides pour les wireframes
 
 ```mermaid
 graph TD
-    A[Frontend (React)] -->|HTTP Requests| B[Backend (Node.js + Express)]
-    B -->|CRUD| C[(MongoDB)]
-    B -->|Call| D[External APIs (e.g., Compiler API)]
-    A -->|WebSocket (Realtime)| B
-```
+    A[Frontend React] -->|HTTP Requests| B[Backend Node.js + Express]
+    B -->|CRUD| C[MongoDB]
+    B -->|Call| D[External APIs e.g., Compiler API]
+    ```
 
 ```mermaid
 erDiagram
