@@ -67,4 +67,4 @@ From June 2, 2025 to June 27, 2025 (4 weeks)
 
 # Demo
 
-[Voir la vidéo](./demo.mp4)
+[Voir la vidéo](https://youtu.be/BTsxEdHITyw)
