@@ -64,3 +64,10 @@ From June 2, 2025 to June 27, 2025 (4 weeks)
 | #2  | Bun path not properly set                                | Resolved | High     | 06/25/25  | Added `~/.bun/bin` to `.zshrc`                         |
 | #3  | Page refreshes upon exercise submission                  | Resolved | Medium   | 06/27/25  | Frontend state update issue                            |
 | #4  | Communication problem between frontend and backend      | Resolved | High     | 06/27/25  | Check CORS, routes, and request headers                |
+
+# Demo
+
+<video width="640" height="360" controls>
+  <source src="./demo.mp4" type="video/mp4">
+  Votre navigateur ne supporte pas la balise vidéo HTML5.
+</video>
