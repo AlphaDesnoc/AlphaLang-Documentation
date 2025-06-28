@@ -67,7 +67,4 @@ From June 2, 2025 to June 27, 2025 (4 weeks)
 
 # Demo
 
-<video width="640" height="360" controls>
-  <source src="./demo.mp4" type="video/mp4">
-  Votre navigateur ne supporte pas la balise vidéo HTML5.
-</video>
+[Voir la vidéo](./demo.mp4)
